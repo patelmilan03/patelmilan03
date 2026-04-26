@@ -12,9 +12,6 @@
 
 ```bash
 $ cat about.json
-```
-
-```json
 {
   "name": "Milan",
   "arc": "Data Engineer → Backend → Mobile",
@@ -26,7 +23,6 @@ $ cat about.json
   "open_to": "Internships · Collaborations · Cool opportunities"
 }
 ```
-
 ---
 
 ### ⚙️ Tech Stack
