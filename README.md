@@ -12,19 +12,9 @@
 
 ### `whoami`
 
-```bash
-$ cat about.json
-{
-  "name": "Milan",
-  "arc": "Data Engineer → Backend → Mobile",
-  "building": ["Route-Aggregator", "ModuNote"],
-  "stack": ["Python", "FastAPI", "Flutter/Dart", "PostgreSQL", "Docker"],
-  "deployed": true,
-  "interests": ["Formula 1", "Cinematography", "Tech that makes you go, how?"],
-  "open_to": "Internships · Collaborations · Cool opportunities"
-}
-```
-
+<div align="center">
+  <img src="./assets/whoami.png" width="750" alt="whoami" />
+</div>
 <br/>
 
 **Currently**
