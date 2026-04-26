@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Milan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Dev%20%7C%20Backend%20Engineer%20%7C%20Systems%20Thinker&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Milan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Flutter%20Dev%20%7C%20Backend%20Engineer%20%7C%20Exploring%20AI&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+backends+%F0%9F%9A%80;Flutter+%2B+FastAPI+%2B+Docker;Grinding+FAANG+system+design+%F0%9F%A7%A0;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;Building+things%2C+one+commit+at+a+time;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +23,7 @@ $ cat about.json
   "stack": ["Python", "FastAPI", "Flutter/Dart", "PostgreSQL", "Docker"],
   "deployed": true,
   "interests": ["Formula 1", "Cinematography", "Tech that makes you go, how?"],
-  "open_to": "Internships · Collaborations · Backend / Mobile roles"
+  "open_to": "Internships · Collaborations · Cool opportunities"
 }
 ```
 
@@ -68,9 +68,9 @@ $ cat about.json
 
 </div>
 
-> **Route-Aggregator** — Production-grade REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud. Aggregates logistics routes with real-time data handling.
+> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud. Aggregates logistics routes across providers.
 
-> **ModuNote** — Block-based note-taking Flutter app with voice-to-text using MVVM architecture and Riverpod state management.
+> **ModuNote** — Note-taking Flutter app with voice-to-text, MVVM architecture and Riverpod state management.
 
 ---
 
