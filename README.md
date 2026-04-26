@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;Building+things%2C+one+commit+at+a+time;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
 
+<br/>
+
 </div>
 
 ---
@@ -15,7 +17,6 @@ $ cat about.json
 {
   "name": "Milan",
   "arc": "Data Engineer → Backend → Mobile",
-  "currently": "Junior Mobile Dev · Python for backend · Learning Agentic AI · System Design prep",
   "building": ["Route-Aggregator", "ModuNote"],
   "stack": ["Python", "FastAPI", "Flutter/Dart", "PostgreSQL", "Docker"],
   "deployed": true,
@@ -23,6 +24,16 @@ $ cat about.json
   "open_to": "Internships · Collaborations · Cool opportunities"
 }
 ```
+
+<br/>
+
+**Currently**
+
+![Junior Mobile Dev](https://img.shields.io/badge/Junior%20Mobile%20Dev-0D1117?style=flat-square&logoColor=white&color=6E56CF)
+![Python Backend](https://img.shields.io/badge/Python%20Backend-0D1117?style=flat-square&logoColor=white&color=3776AB)
+![Learning Agentic AI](https://img.shields.io/badge/Learning%20Agentic%20AI%20🤖-0D1117?style=flat-square&logoColor=white&color=FF6B6B)
+![System Design](https://img.shields.io/badge/System%20Design%20Prep-0D1117?style=flat-square&logoColor=white&color=20C997)
+
 ---
 
 ### ⚙️ Tech Stack
@@ -64,9 +75,17 @@ $ cat about.json
 
 </div>
 
+<br/>
+
 > **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud. Aggregates logistics routes across providers.
+>
+> `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+
+<br/>
 
 > **ModuNote** — Note-taking Flutter app with voice-to-text, MVVM architecture and Riverpod state management.
+>
+> `Flutter` `Dart` `Riverpod` `MVVM`
 
 ---
 
@@ -103,6 +122,8 @@ $ cat about.json
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/milan-patel-040703m/)
 [![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/ptl_milan)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patelmilan03&style=flat-square&color=6E56CF&label=PROFILE+VIEWS)
 
