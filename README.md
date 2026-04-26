@@ -4,25 +4,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;Building+things%2C+one+commit+at+a+time;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
 
-<br/>
-
 </div>
 
 ---
 
-### `whoami`
+### 👾 About Me
 
-<div align="center">
-  <img src="./assets/whoami.png" width="750" alt="whoami" />
-</div>
-<br/>
-
-**Currently**
-
-![Junior Mobile Dev](https://img.shields.io/badge/Junior%20Mobile%20Dev-0D1117?style=flat-square&logoColor=white&color=6E56CF)
-![Python Backend](https://img.shields.io/badge/Python%20Backend-0D1117?style=flat-square&logoColor=white&color=3776AB)
-![Learning Agentic AI](https://img.shields.io/badge/Learning%20Agentic%20AI%20🤖-0D1117?style=flat-square&logoColor=white&color=FF6B6B)
-![System Design](https://img.shields.io/badge/System%20Design%20Prep-0D1117?style=flat-square&logoColor=white&color=20C997)
+| | |
+|:---|:---|
+| 🔭 **Building** | Route-Aggregator · ModuNote |
+| 🌱 **Learning** | Agentic AI · LLMs · System Design |
+| ⚡ **Arc** | Data Engineer → Backend → Mobile |
+| 🎨 **Outside code** | Formula 1 · Cinematography |
+| 💬 **Open to** | Internships · Collaborations · Cool opportunities |
 
 ---
 
@@ -67,11 +61,9 @@
 
 <br/>
 
-> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud. Aggregates logistics routes across providers.
+> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud.
 >
 > `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
-
-<br/>
 
 > **ModuNote** — Note-taking Flutter app with voice-to-text, MVVM architecture and Riverpod state management.
 >
@@ -119,4 +111,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
+</div>****
