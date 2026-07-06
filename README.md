@@ -13,7 +13,7 @@
 | 🔭 **Building** | ModuNote · ForgeLoad · Route-Aggregator |
 | 🌱 **Learning** | Agentic AI · LLMs · System Design |
 | ⚡ **Arc** | Data Engineer → Backend → Mobile |
-| 🎨 **Outside code** | Formula 1 · Cinematography · Sci-Fi Books |
+| 🎨 **Outside code** | Formula 1 · Cinematography |
 | 💬 **Open to** | Internships · Collaborations · Cool opportunities |
 
 ---
@@ -91,16 +91,6 @@
 </picture>
 
 </div>
-
----
-
-### ⏱️ Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Setting up WakaTime tracking — check back after your first tracked week!
-```
-<!--END_SECTION:waka-->
 
 ---
 
