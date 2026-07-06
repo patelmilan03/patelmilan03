@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Milan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Flutter%20Dev%20%7C%20Backend%20Engineer%20%7C%20Exploring%20AI&descAlignY=55&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;Building+things%2C+one+commit+at+a+time;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Hey%2C+I'm+Milan+%F0%9F%91%8B;Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +10,10 @@
 
 | | |
 |:---|:---|
-| 🔭 **Building** | Route-Aggregator · ModuNote |
+| 🔭 **Building** | ModuNote · ForgeLoad · Route-Aggregator |
 | 🌱 **Learning** | Agentic AI · LLMs · System Design |
 | ⚡ **Arc** | Data Engineer → Backend → Mobile |
-| 🎨 **Outside code** | Formula 1 · Cinematography |
+| 🎨 **Outside code** | Formula 1 · Cinematography · Sci-Fi Books |
 | 💬 **Open to** | Internships · Collaborations · Cool opportunities |
 
 ---
@@ -54,20 +52,23 @@
 
 <div align="center">
 
-[![Route Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=Route-Aggregator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/Route-Aggregator)
 [![ModuNote](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=ModuNote&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/ModuNote)
+[![ForgeLoad](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=progressive-load-engine&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/progressive-load-engine)
+[![Route Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=Route-Aggregator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/Route-Aggregator)
 
 </div>
 
-<br/>
-
-> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud.
->
-> `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
-
-> **ModuNote** — Note-taking Flutter app with voice-to-text, MVVM architecture and Riverpod state management.
+> **ModuNote** — Quick-capture ideation app for content creators and journalers who'd rather speak than type. Flutter + Drift + Riverpod, rich-text notes via Quill Delta, voice-to-text, tagging.
 >
 > `Flutter` `Dart` `Riverpod` `MVVM`
+
+> **ForgeLoad** — Recovery-tracking app for people who run *and* lift, so training load doesn't outpace recovery.
+>
+> `Java`
+
+> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy that aggregates OSRM routing and live weather data into daylight-aware travel itineraries. Containerized with Docker, deployed to cloud.
+>
+> `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
 
 ---
 
@@ -75,16 +76,31 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=patelmilan03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=patelmilan03&theme=tokyonight&hide_border=true&background=0D1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=patelmilan03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=patelmilan03&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=patelmilan03&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="160" src="https://streak-stats.demolab.com?user=patelmilan03&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmilan03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmilan03&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</picture>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmilan03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+### ⏱️ Weekly Coding Breakdown
 
-</div>
+<!--START_SECTION:waka-->
+```text
+Setting up WakaTime tracking — check back after your first tracked week!
+```
+<!--END_SECTION:waka-->
 
 ---
 
@@ -92,7 +108,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/patelmilan03/patelmilan03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patelmilan03/patelmilan03/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/patelmilan03/patelmilan03/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -111,4 +130,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>****
+</div>
