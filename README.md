@@ -52,24 +52,21 @@
 
 <div align="center">
 
-[![ModuNote](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=ModuNote&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/ModuNote)
-[![ForgeLoad](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=progressive-load-engine&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/progressive-load-engine)
-[![Route Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=patelmilan03&repo=Route-Aggregator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/patelmilan03/Route-Aggregator)
+[![Route-Aggregator](https://img.shields.io/badge/Route--Aggregator-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelmilan03/Route-Aggregator)
+&nbsp;&nbsp;
+[![ModuNote](https://img.shields.io/badge/ModuNote-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelmilan03/ModuNote)
 
 </div>
 
-> **ModuNote** — Quick-capture ideation app for content creators and journalers who'd rather speak than type. Flutter + Drift + Riverpod, rich-text notes via Quill Delta, voice-to-text, tagging.
->
-> `Flutter` `Dart` `Riverpod` `MVVM`
+<br/>
 
-> **ForgeLoad** — Recovery-tracking app for people who run *and* lift, so training load doesn't outpace recovery.
->
-> `Java`
-
-> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy that aggregates OSRM routing and live weather data into daylight-aware travel itineraries. Containerized with Docker, deployed to cloud.
+> **Route-Aggregator** — REST API built with FastAPI, PostgreSQL & SQLAlchemy. Containerized with Docker and deployed to cloud.
 >
 > `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
 
+> **ModuNote** — Note-taking Flutter app with voice-to-text, MVVM architecture and Riverpod state management.
+>
+> `Flutter` `Dart` `Riverpod` `MVVM`
 ---
 
 ### 📊 GitHub Stats
