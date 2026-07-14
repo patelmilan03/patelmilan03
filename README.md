@@ -76,22 +76,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=patelmilan03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=patelmilan03&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=patelmilan03&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img height="160" src="https://streak-stats.demolab.com?user=patelmilan03&hide_border=true" />
-</picture>
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/overview.svg#gh-dark-mode-only" alt="Overview stats" />
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/overview.svg#gh-light-mode-only" alt="Overview stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmilan03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmilan03&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</picture>
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/languages.svg#gh-dark-mode-only" alt="Language breakdown" />
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/languages.svg#gh-light-mode-only" alt="Language breakdown" />
 
 </div>
-
 ---
 
 ### 🐍 Contribution Activity
