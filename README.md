@@ -76,11 +76,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/overview.svg#gh-dark-mode-only" alt="Overview stats" />
-<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/overview.svg#gh-light-mode-only" alt="Overview stats" />
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/overview.svg" alt="Overview stats" />
 
-<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/languages.svg#gh-dark-mode-only" alt="Language breakdown" />
-<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/generated/languages.svg#gh-light-mode-only" alt="Language breakdown" />
+<img src="https://raw.githubusercontent.com/patelmilan03/github-stats/generated/languages.svg" alt="Language breakdown" />
 
 </div>
 ---
