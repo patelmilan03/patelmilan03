@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Hey%2C+I'm+Milan+%F0%9F%91%8B;Fullstack+Flutter+Dev+%C2%B7+FastAPI+%C2%B7+Docker+%F0%9F%9A%80;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;F1+fan+%7C+Urban+photographer+%F0%9F%93%B7" alt="Typing SVG" />
-
-</div>
-
----
 
 ### 👾 About Me
 
